@@ -1,0 +1,412 @@
+2012-10-31 16:06:23,617 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:06:23,633 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:06:23,633 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:23,650 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:23,651 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:23,754 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - error parsing expiration value
+2012-10-31 16:06:23,756 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:23,757 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:23,765 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:23,769 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:06:23,769 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:23,772 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:23,772 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:23,777 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:23,779 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:23,780 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nhibernate:nunit@-377271816&value=value
+2012-10-31 16:06:23,795 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:23,797 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:23,800 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:23,801 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:06:23,801 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:06:23,801 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:23,802 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:06:23,802 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:06:28,803 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:06:28,810 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:06:28,810 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:06:28,810 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:28,810 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:06:28,810 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:06:28,810 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key@-1694695326' to 'TestObject'.
+2012-10-31 16:06:33,811 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:06:33,813 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 7
+2012-10-31 16:06:33,815 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:33,815 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:33,821 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit1, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:33,821 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:33,827 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:33,827 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:33,837 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:06:33,837 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:06:33,837 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:33,842 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:06:33,842 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:06:33,842 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:33,857 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: , properties: 
+2012-10-31 16:06:33,857 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:06:33,857 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:33,860 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=2;
+2012-10-31 16:06:33,860 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 2
+2012-10-31 16:06:33,865 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: a_region, properties: 
+2012-10-31 16:06:33,865 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:06:33,865 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:36,304 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=2;
+2012-10-31 16:06:36,304 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 2
+2012-10-31 16:06:44,462 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:44,462 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:44,504 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - error parsing expiration value
+2012-10-31 16:06:44,506 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:44,506 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:44,507 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:44,512 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:06:44,512 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:44,514 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:44,514 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:44,519 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:44,521 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:44,521 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nhibernate:nunit@-377271816' to 'value'.
+2012-10-31 16:06:44,529 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:44,531 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:44,532 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:06:44,535 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:06:44,535 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:06:44,535 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:44,535 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:06:44,535 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:06:49,535 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:06:49,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:06:49,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:06:49,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:06:49,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:06:49,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:06:49,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key@-1694695326' to 'TestObject'.
+2012-10-31 16:06:54,537 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:06:54,539 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 7
+2012-10-31 16:06:54,542 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:54,542 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:54,543 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit1, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:54,546 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:06:54,550 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:06:54,550 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:11:18,086 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:11:18,101 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:11:18,101 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:11:18,118 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:11:18,118 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:11:18,213 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - error parsing expiration value
+2012-10-31 16:11:18,216 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:11:18,216 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:11:18,221 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:11:18,226 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:11:18,226 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:11:18,228 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=4;
+2012-10-31 16:11:18,228 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 4
+2012-10-31 16:11:18,234 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:11:18,235 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:11:18,236 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nhibernate:nunit@-377271816&value=value
+2012-10-31 16:11:18,248 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:11:18,251 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:11:18,254 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:11:18,255 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:11:18,255 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:11:18,255 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:11:18,256 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:11:18,256 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:11:23,257 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:11:25,142 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:11:25,142 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:11:25,142 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:11:25,142 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:11:25,142 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:11:25,142 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key@-1694695326' to 'TestObject'.
+2012-10-31 16:12:29,220 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:29,234 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:12:29,235 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:29,252 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:29,252 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:29,252 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:29,252 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:29,257 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:12:29,283 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:29,283 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:12:29,283 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:29,291 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - error parsing expiration value
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key1@1497890914' to 'value'.
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:29,297 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:29,304 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:12:29,306 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:12:29,306 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:TestObject@1&value=TestObject
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:12:29,308 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:12:29,310 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:12:29,312 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:12:29,312 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nhibernate:nunit@-377271816&value=value
+2012-10-31 16:12:29,314 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:12:29,316 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:12:29,318 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:12:29,320 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:12:29,320 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:12:29,320 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:29,320 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:12:29,320 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:12:34,321 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:12:34,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:12:34,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:12:34,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:34,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:12:34,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:12:34,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key@-1694695326' to 'TestObject'.
+2012-10-31 16:12:39,323 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:12:39,325 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 7
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:12:39,328 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit1, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit2, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit1:key@-1694695326&value=test1
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit2:key@-1694695326&value=test2
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit1:key@-1694695326' from the cache.
+2012-10-31 16:12:39,330 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit2:key@-1694695326' from the cache.
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key1@1497890914' to 'value'.
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - removing item with key: NHibernate-Cache:nunit:key1@1497890914
+2012-10-31 16:12:39,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:12:42,562 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:42,566 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:12:42,566 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:42,569 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:12:42,569 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:12:42,569 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:45,414 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: , properties: 
+2012-10-31 16:12:45,421 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:12:45,421 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:12:45,423 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=2;
+2012-10-31 16:12:45,423 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 2
+2012-10-31 16:12:45,477 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: a_region, properties: 
+2012-10-31 16:12:45,477 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:12:45,477 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:13:26,033 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:13:26,047 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:13:26,047 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:13:26,073 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: , properties: 
+2012-10-31 16:13:26,073 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:13:26,073 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:13:26,076 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=2;
+2012-10-31 16:13:26,076 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 2
+2012-10-31 16:13:26,131 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: a_region, properties: 
+2012-10-31 16:13:26,131 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:13:26,131 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:14:02,332 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=2;
+2012-10-31 16:14:02,332 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 2
+2012-10-31 16:15:36,427 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:36,441 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:15:36,441 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:36,467 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: , properties: 
+2012-10-31 16:15:36,467 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:15:36,467 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:36,470 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:36,470 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:36,470 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:36,470 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:36,473 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: a_region, properties: 
+2012-10-31 16:15:36,473 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:15:36,473 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:38,703 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:38,708 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:15:38,708 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:38,713 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:38,713 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:15:38,713 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:40,676 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:40,676 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:40,676 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:40,676 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:40,678 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:15:40,699 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:40,699 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:15:40,699 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:40,703 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - error parsing expiration value
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key1@1497890914' to 'value'.
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:40,705 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:40,708 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:15:40,709 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:15:40,709 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:TestObject@1&value=TestObject
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:15:40,712 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:15:40,714 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:15:40,716 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:15:40,716 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nhibernate:nunit@-377271816&value=value
+2012-10-31 16:15:40,718 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:15:40,720 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:15:40,722 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:15:40,724 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:15:40,724 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:15:40,724 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:40,724 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:15:40,724 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:15:45,725 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:15:45,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:15:45,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:15:45,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:45,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:15:45,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:15:45,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key@-1694695326' to 'TestObject'.
+2012-10-31 16:15:50,727 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:15:50,729 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 7
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:15:50,732 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit1, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit2, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit1:key@-1694695326&value=test1
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit2:key@-1694695326&value=test2
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit1:key@-1694695326' from the cache.
+2012-10-31 16:15:50,733 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit2:key@-1694695326' from the cache.
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key1@1497890914' to 'value'.
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - removing item with key: NHibernate-Cache:nunit:key1@1497890914
+2012-10-31 16:15:50,736 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:37,903 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:37,917 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:34:37,918 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:37,939 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:37,939 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:37,939 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:37,939 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:37,944 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:34:37,970 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:37,970 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:34:37,970 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:37,979 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - error parsing expiration value
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key1@1497890914' to 'value'.
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:37,982 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:37,984 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:34:37,987 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:34:37,987 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:37,989 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:37,989 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:37,989 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:37,989 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:37,989 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:34:37,990 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:TestObject@1&value=TestObject
+2012-10-31 16:34:37,990 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:34:37,990 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:34:37,991 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:34:37,993 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:34:37,993 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nhibernate:nunit@-377271816&value=value
+2012-10-31 16:34:37,995 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:34:37,997 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:34:38,000 [TestRunnerThread] WARN  NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - configuring cache with default values
+2012-10-31 16:34:38,001 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:34:38,001 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:34:38,002 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:38,002 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:34:38,002 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:34:43,003 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:34:43,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=3;
+2012-10-31 16:34:43,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 3
+2012-10-31 16:34:43,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:43,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:TestObject@1' from the cache.
+2012-10-31 16:34:43,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key@-1694695326&value=TestObject
+2012-10-31 16:34:43,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key@-1694695326' to 'TestObject'.
+2012-10-31 16:34:48,006 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key@-1694695326' from the cache.
+2012-10-31 16:34:48,009 [TestRunnerThread] ERROR NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - priority value out of range: 7
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit:key1@1497890914&value=value
+2012-10-31 16:34:48,011 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit1, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit2, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit1:key@-1694695326&value=test1
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - adding new data: key=NHibernate-Cache:nunit2:key@-1694695326&value=test2
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit1:key@-1694695326' from the cache.
+2012-10-31 16:34:48,014 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit2:key@-1694695326' from the cache.
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: nunit, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - updating value of key 'NHibernate-Cache:nunit:key1@1497890914' to 'value'.
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - removing item with key: NHibernate-Cache:nunit:key1@1497890914
+2012-10-31 16:34:48,016 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - Fetching object 'NHibernate-Cache:nunit:key1@1497890914' from the cache.
+2012-10-31 16:34:48,023 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,023 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:34:48,023 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,026 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,026 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 500
+2012-10-31 16:34:48,026 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,041 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: , properties: 
+2012-10-31 16:34:48,041 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:34:48,041 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,043 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: another_region, properties: name=expiration&value=120;name=priority&value=0;
+2012-10-31 16:34:48,043 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new priority: Default
+2012-10-31 16:34:48,043 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - new expiration value: 120
+2012-10-31 16:34:48,043 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults
+2012-10-31 16:34:48,045 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCacheProvider [(null)] <(null)> - building cache with region: a_region, properties: 
+2012-10-31 16:34:48,045 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no expiration value given, using defaults
+2012-10-31 16:34:48,045 [TestRunnerThread] DEBUG NHibernate.Caches.MemoryCache.MemoryCache [(null)] <(null)> - no regionPrefix value given, using defaults

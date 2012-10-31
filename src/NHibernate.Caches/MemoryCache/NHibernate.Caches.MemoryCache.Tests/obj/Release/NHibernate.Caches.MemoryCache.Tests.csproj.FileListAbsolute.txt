@@ -1,0 +1,1 @@
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache.Tests\obj\Release\NHibernate.Caches.MemoryCache.Tests.csprojResolveAssemblyReference.cache

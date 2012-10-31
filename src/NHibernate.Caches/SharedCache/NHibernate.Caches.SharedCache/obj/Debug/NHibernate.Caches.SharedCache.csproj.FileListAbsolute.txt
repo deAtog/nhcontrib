@@ -1,0 +1,11 @@
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\NHibernate.Caches.SharedCache.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\NHibernate.Caches.SharedCache.pdb
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\MergeSystem.Indexus.WinServiceCommon.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\NHibernate.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\NLog.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\Iesi.Collections.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\NHibernate.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\bin\Debug\Iesi.Collections.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\obj\Debug\NHibernate.Caches.SharedCache.csprojResolveAssemblyReference.cache
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\obj\Debug\NHibernate.Caches.SharedCache.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SharedCache\NHibernate.Caches.SharedCache\obj\Debug\NHibernate.Caches.SharedCache.pdb

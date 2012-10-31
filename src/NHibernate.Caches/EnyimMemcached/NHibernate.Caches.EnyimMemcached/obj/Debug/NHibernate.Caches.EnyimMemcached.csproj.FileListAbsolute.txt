@@ -1,0 +1,14 @@
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\NHibernate.Caches.EnyimMemcached.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\NHibernate.Caches.EnyimMemcached.pdb
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\Enyim.Caching.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\NHibernate.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\log4net.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\Iesi.Collections.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\Enyim.Caching.pdb
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\Enyim.Caching.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\NHibernate.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\log4net.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\bin\Debug\Iesi.Collections.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\obj\Debug\NHibernate.Caches.EnyimMemcached.csprojResolveAssemblyReference.cache
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\obj\Debug\NHibernate.Caches.EnyimMemcached.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\EnyimMemcached\NHibernate.Caches.EnyimMemcached\obj\Debug\NHibernate.Caches.EnyimMemcached.pdb

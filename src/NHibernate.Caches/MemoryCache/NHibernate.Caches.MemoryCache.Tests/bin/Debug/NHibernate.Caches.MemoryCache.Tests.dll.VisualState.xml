@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1029]E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache.Tests\bin\Debug\NHibernate.Caches.MemoryCache.Tests.dll</TopNode>
+  <SelectedNode>[0-1032]NHibernate.Caches.MemoryCache</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1029]E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache.Tests\bin\Debug\NHibernate.Caches.MemoryCache.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1030]NHibernate" Expanded="true" />
+    <Node UniqueName="[0-1031]NHibernate.Caches" Expanded="true" />
+    <Node UniqueName="[0-1032]NHibernate.Caches.MemoryCache" Expanded="true" />
+    <Node UniqueName="[0-1033]NHibernate.Caches.MemoryCache.Tests" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,13 @@
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\NHibernate.Caches.MemoryCache.dll
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\NHibernate.Caches.MemoryCache.pdb
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\NHibernate.dll
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\Iesi.Collections.dll
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\Antlr3.Runtime.dll
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\Remotion.Linq.dll
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\NHibernate.pdb
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\NHibernate.xml
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\Iesi.Collections.xml
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\Remotion.Linq.pdb
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\bin\Release\Remotion.Linq.xml
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\obj\Release\NHibernate.Caches.MemoryCache.dll
+E:\TEMP\CodeSamples\NHIBERNATE-Core\nhcontrib\trunk\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache\obj\Release\NHibernate.Caches.MemoryCache.pdb

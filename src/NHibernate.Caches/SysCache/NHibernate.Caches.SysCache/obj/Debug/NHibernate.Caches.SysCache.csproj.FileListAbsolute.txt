@@ -1,0 +1,8 @@
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\bin\Debug\NHibernate.Caches.SysCache.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\bin\Debug\NHibernate.Caches.SysCache.pdb
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\bin\Debug\NHibernate.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\bin\Debug\Iesi.Collections.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\bin\Debug\NHibernate.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\bin\Debug\Iesi.Collections.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\obj\Debug\NHibernate.Caches.SysCache.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\SysCache\NHibernate.Caches.SysCache\obj\Debug\NHibernate.Caches.SysCache.pdb

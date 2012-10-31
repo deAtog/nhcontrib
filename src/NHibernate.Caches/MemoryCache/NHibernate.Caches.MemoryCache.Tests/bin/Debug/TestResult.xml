@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache.Tests\bin\Debug\NHibernate.Caches.MemoryCache.Tests.dll" total="26" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-10-31" time="16:34:48">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache.Tests\bin\Debug" machine-name="ZEUS" user="Alberto" user-domain="ZEUS" />
+  <culture-info current-culture="it-IT" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemoryCache\NHibernate.Caches.MemoryCache.Tests\bin\Debug\NHibernate.Caches.MemoryCache.Tests.dll" executed="True" result="Success" success="True" time="10.517" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NHibernate" executed="True" result="Success" success="True" time="10.511" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Caches" executed="True" result="Success" success="True" time="10.511" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="MemoryCache" executed="True" result="Success" success="True" time="10.510" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="10.510" asserts="0">
+                    <results>
+                      <test-suite type="TestFixture" name="MemoryCacheFixture" executed="True" result="Success" success="True" time="10.479" asserts="0">
+                        <results>
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestAfterClearCanPut" executed="True" result="Success" success="True" time="0.039" asserts="5" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestBadRelativeExpiration" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestClear" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestDefaultConstructor" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestEmptyProperties" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestNonEqualObjectsWithEqualHashCodeAndToString" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestNoPropertiesConstructor" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestNullKeyGet" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestNullKeyPut" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestNullKeyRemove" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestNullValuePut" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestObjectExpiration" executed="True" result="Success" success="True" time="5.001" asserts="2" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestObjectExpirationAfterUpdate" executed="True" result="Success" success="True" time="5.000" asserts="2" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestPriorityOutOfRange" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestPut" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestRegions" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheFixture.TestRemove" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="MemoryCacheSectionHandlerFixture" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                        <results>
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheSectionHandlerFixture.RecognizeMnemonicPriorityValues" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheSectionHandlerFixture.RecognizeNumericPriorityValues" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheSectionHandlerFixture.TestGetConfigFromFile" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.MemoryCacheSectionHandlerFixture.TestGetConfigNullSection" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="SysCacheProviderFixture" executed="True" result="Success" success="True" time="0.014" asserts="0">
+                        <results>
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.SysCacheProviderFixture.TestBuildCacheFromConfig" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.SysCacheProviderFixture.TestBuildCacheNullNull" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.SysCacheProviderFixture.TestBuildCacheStringICollection" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.SysCacheProviderFixture.TestBuildCacheStringNull" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="NHibernate.Caches.MemoryCache.Tests.SysCacheProviderFixture.TestNextTimestamp" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

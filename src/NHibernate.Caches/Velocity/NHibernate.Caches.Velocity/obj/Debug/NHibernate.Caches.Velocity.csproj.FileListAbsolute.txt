@@ -1,0 +1,16 @@
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\NHibernate.Caches.Velocity.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\NHibernate.Caches.Velocity.pdb
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\CacheBaseLibrary.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\ClientLibrary.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\NHibernate.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\FabricCommon.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\CASClient.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\CASBase.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\Iesi.Collections.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\CacheBaseLibrary.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\ClientLibrary.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\NHibernate.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\bin\Debug\Iesi.Collections.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\obj\Debug\NHibernate.Caches.Velocity.csprojResolveAssemblyReference.cache
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\obj\Debug\NHibernate.Caches.Velocity.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\Velocity\NHibernate.Caches.Velocity\obj\Debug\NHibernate.Caches.Velocity.pdb

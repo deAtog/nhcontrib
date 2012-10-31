@@ -1,0 +1,14 @@
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\NHibernate.Caches.MemCache.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\NHibernate.Caches.MemCache.pdb
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\Commons.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\Memcached.ClientLibrary.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\NHibernate.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\log4net.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\Iesi.Collections.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\NHibernate.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\log4net.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\bin\Debug\Iesi.Collections.xml
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\obj\Debug\NHibernate.Caches.MemCache.csprojResolveAssemblyReference.cache
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\obj\Debug\NHibernate.Caches.MemCache.dll
+E:\Sviluppo\GitHub\nhcontrib\src\NHibernate.Caches\MemCache\NHibernate.Caches.MemCache\obj\Debug\NHibernate.Caches.MemCache.pdb
