@@ -41,7 +41,7 @@ namespace NHibernate.JetDriver.SqlFixes
         {
 #if (!DEBUG)
             return sql;
-#endif
+#else
 
             if (!RegexDistinct.IsMatch(sql))
             {
@@ -60,6 +60,7 @@ namespace NHibernate.JetDriver.SqlFixes
             }
 
             return sql;
+#endif
         }
     }
 }

@@ -17,11 +17,9 @@ namespace NHibernate.JetDriver.SqlFixes
         /// <returns>Collection of SqlString parts</returns>
         public static List<object> SplitParts(SqlString sqlString)
         {
-            var parts = sqlString.Parts;
             var partList = new List<object>();
 
-            foreach (var part in parts)
-            {
+            foreach (var part in sqlString) {
                 partList.Add(part);
             }
 
