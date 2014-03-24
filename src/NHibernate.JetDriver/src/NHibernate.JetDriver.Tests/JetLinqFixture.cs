@@ -4,7 +4,6 @@ using System.Linq;
 using NHibernate.JetDriver.Tests.Entities;
 using NHibernate.Linq;
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
 
 namespace NHibernate.JetDriver.Tests
 {

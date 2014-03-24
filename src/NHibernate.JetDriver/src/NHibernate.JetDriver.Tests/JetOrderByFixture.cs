@@ -2,7 +2,7 @@ using System;
 using NHibernate.Criterion;
 using NHibernate.JetDriver.Tests.Entities;
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
+
 
 namespace NHibernate.JetDriver.Tests
 {

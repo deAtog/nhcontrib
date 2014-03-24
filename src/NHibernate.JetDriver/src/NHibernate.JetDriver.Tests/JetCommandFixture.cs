@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Collections.Generic;
 
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
+
 
 using NHibernate.JetDriver.Tests.Entities;
 

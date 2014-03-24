@@ -4,7 +4,7 @@ using NHibernate.Dialect.Function;
 using NHibernate.JetDriver.Tests.Entities;
 using NHibernate.Tool.hbm2ddl;
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
+
 
 namespace NHibernate.JetDriver.Tests 
 {

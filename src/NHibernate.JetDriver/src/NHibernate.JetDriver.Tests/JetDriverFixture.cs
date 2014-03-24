@@ -4,7 +4,7 @@ using System.IO;
 using NHibernate.SqlTypes;
 
 using NUnit.Framework;
-using NUnit.Framework.SyntaxHelpers;
+
 
 namespace NHibernate.JetDriver.Tests
 {
